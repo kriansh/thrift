@@ -1,0 +1,10 @@
+2023-12-19T17:45:18+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2023-12-19T17:45:30+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2023-12-19T17:45:32+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2023-12-19T17:45:34+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2023-12-19T17:45:36+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
